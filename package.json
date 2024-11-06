@@ -1,0 +1,17 @@
+{
+  "name": "homework_1_nanadumbadze",
+  "version": "1.0.0",
+  "description": "this is my first homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "nana dumbadze",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  },
+  "type": "module"
+}
